@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-Feb-2020, 22:59:56
+    Author     : Vasyl Antoniuk
+*/
+
+
+
+.tabcontainer{
+    
+    float:left;
+    margin-left: 40px;
+}
+
+.form1{
+    
+    float:left;
+     
+}
+
+#tab tr:hover{
+    background-color: gray;
+    cursor: pointer;
+}
